@@ -10,4 +10,11 @@ brew install node
 ~~~
 
 
+### node.js 관련 이슈
+
+~~~linux~~~
+Error: An exception occurred within a child process:
+  FormulaUnavailableError: No available formula with the name "formula.jws.json".
+~~~
+
 
